@@ -80,9 +80,9 @@ Customer spending patterns remain highly consistent across demographic groups, p
 ## 📁 Repository Contents
 
 ```
-├── analysis.ipynb                       # Main Jupyter notebook with full EDA
-├── shopping_behavior_updated.csv        # Dataset used in the analysis
-└── README.md                            # Project documentation
+├── Customer Shopping Behavior Analysis.ipynb               # Main Jupyter notebook with full EDA
+├── shopping_behavior_updated.csv                           # Dataset used in the analysis
+└── README.md                                               # Project documentation
 ```
 
 ## ▶️ How to Run
