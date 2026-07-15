@@ -95,7 +95,7 @@ Customer spending patterns remain highly consistent across demographic groups, p
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-3. Open and run `analysis.ipynb` in Jupyter Notebook / JupyterLab.
+3. Open and run `Customer Shopping Behavior Analysis.ipynb` in Jupyter Notebook / JupyterLab.
 
 ## 👤 Author
 
